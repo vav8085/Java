@@ -1,0 +1,5 @@
+Queues:
+1.  In Queues we add item to one side of the queue and remove them from other side.
+2.  This is a FIFO data structure.
+3.  With add() we add items to queue, remove() we remove items from queue and element() gives first element in queue.
+4.  Queues can be LinkedList, PriorityQueue, Dequeue and ArrayDequeue.

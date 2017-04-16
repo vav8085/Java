@@ -1,0 +1,11 @@
+Arraylists:
+1.  An arraylist uses an array datastructure to store values.
+2.  Arraylists are good for random access using index.
+3.  First item is 0th item.
+4.  Vectors are synchronized and array lists are not synchronized.
+5.  Except accessing all other operations on arrays take O(n) time,
+    Like deletion, arraylists are not good for deletion, we should use linked lists for that.
+6.  We can define capicity of an arraylist at the time of creation ArrayList(10000);, this will
+    save array list to expand and copy items every time because inital size will be 10000 values.
+7.  Data in arraylist is stored consecutively.
+8.  Deleting items from front and mid of large arraylist can cause performance degradation.

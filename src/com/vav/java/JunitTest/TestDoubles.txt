@@ -1,0 +1,7 @@
+1. Stubs:These are not behaviors in the applications. they are just
+the methods that can provide us a test solution.
+
+2. Fakes:Fakes are behaviors but much easier implementation of the actual solution.
+Like a fake local database to query and practice against.
+
+3. Mocks:

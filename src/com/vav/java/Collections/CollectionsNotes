@@ -1,0 +1,26 @@
+Collections:
+1.  Collections framework for list of classes and interfaces that are tested data structures and algorithms.
+2.  All collections are derived from java.util.Collection interface.
+3.  Collection interface extends Iterable interface that has an iterator.
+4.  Calling iterator() method on any collection will return an iterator object.
+
+Hierarchy:
+*Collections-Scalar storage
+
+                        Iterable(I)
+                        Collection(I)
+List(I)                 Queue(I)                            Set(I)
+    Arraylist(C)            PriorityQueue(C)                    Hashset(C)
+    LinkedList(C)           Dequeue(I)                          LinkedHashset(C)
+    Vector(C)                   ArrayDequeue(C)                 SortedSet(I)
+        Stack(C)                                                    Treeset(C)
+
+*Map-Key value storage
+                        Map(I)
+                            Hashtable(C)
+                            Hashmap(C)
+                            LinkedHashmap(C)
+                            SortedMap(I)
+                                TreeMap(C)
+
+

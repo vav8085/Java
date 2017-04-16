@@ -1,0 +1,4 @@
+Stacks:
+1.  Stacks extend vectors.
+2.  Stack is a LIFO, you always remove item from top.
+3.  push, peek, pop are some of the methods available in stacks.

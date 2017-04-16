@@ -1,0 +1,3 @@
+Vectors:
+1.  Vectors are synchronized.
+2.  Vectors can define a capacity and a capacityIncrement.

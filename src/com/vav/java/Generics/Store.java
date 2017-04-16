@@ -12,9 +12,12 @@ public class Store<T> {
     public void setItem(T item){
         this.item=item;
     }
-    @Override
-    public String toString(){
 
-        return "the item is:"+ item.toString();
+    public static void main(String arg[]){
+        Store<Integer> store = new Store();
+        store.setItem(1);
+        System.out.print(store.getItem());
+
+
     }
 }

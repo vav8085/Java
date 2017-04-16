@@ -1,0 +1,4 @@
+Linked Lists:
+1.  Linked lists are good for removing items at the begenning on the list.
+2.  Accessing an item needs parsing the list items one by one.
+3.  Linked list indexes start from 0

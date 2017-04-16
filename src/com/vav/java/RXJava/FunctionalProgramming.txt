@@ -1,0 +1,11 @@
+1. Pure functions:
+    A function is a pure function when it does nto depend on state of
+    the class or the thread its called in. It does not need any synchronization code.
+    Class{
+    int a;
+        Funct(int b){
+            //operations
+            b = b*2;
+            return b;
+        }
+    }

@@ -1,0 +1,12 @@
+Generics:
+1.  We can define any class as generic using a diamond operator<>
+2.  During compile time Java looks at the generic types and replace them with actual types.
+3.  While instantiating a generic class you can define the actual type.
+4.  We do not have to cast item once we get it from a generic class.
+5.  We should always avoid raw types. If you use Raw types like Store store = new Store(); then
+    while getting value back you have to cast it.
+6.  We can also define multiple type parameters class Hashmaps<K,V>{}
+
+Generic Methods:
+1.  We can define any method as generic using <> operator in its defination.
+2.  E.g. public <T> void genericMethod(T valueToPrint){ System.out.println(valueToPrint.toString())}
