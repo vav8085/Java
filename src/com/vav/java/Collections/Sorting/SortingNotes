@@ -1,0 +1,6 @@
+Sorting:
+1.  Java uses quicksort for sorting primitive types.
+2.  Java uses mergesort for sorting reference types.
+3.  Primitives and one dimensional arrays can be sorted
+    using Arrays.sort() method.
+4.  For sorting numbers we use Collections.sort() and we give it a collection.

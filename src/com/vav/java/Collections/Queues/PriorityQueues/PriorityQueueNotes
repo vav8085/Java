@@ -1,0 +1,6 @@
+Priority Queues:
+1.  We assign a priority to every element in the priority queue.
+2.  The element with higher priority is server prior to the element with lower priority.
+3.  The elements of the priority queues are ordered according to their natural ordering as
+    defined by comparable interface.
+4.  The objects to be compared must implement the comparable interface and override its methods.
