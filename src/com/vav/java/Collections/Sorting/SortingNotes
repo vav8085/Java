@@ -4,3 +4,4 @@ Sorting:
 3.  Primitives and one dimensional arrays can be sorted
     using Arrays.sort() method.
 4.  For sorting numbers we use Collections.sort() and we give it a collection.
+5.  Using comparator is much better than using comparable on DAO because it separates out the functionality.
