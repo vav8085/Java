@@ -1,0 +1,11 @@
+Maps:
+1.  Hashmaps are used to store key value pairs.
+2.  We can create HashMap, HashTable and LinkedHashMap in java.
+3.  We can also create TreeMap that is a kind of SortedMap.
+4.  A Map cannot contain duplicate keys.
+5.  Each key can map to at most 1 value.
+6.  HashTable is synchronized and slow while HashMap is not synchronized.
+7.  Hashtable does not allow null key/values.
+8.  HashMap allows one null key and any number of null values.
+9.  LinkedHashMaps maintain insertion order.
+10. TreeMap adds data in natural sorted order.

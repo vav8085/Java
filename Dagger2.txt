@@ -1,3 +1,0 @@
-1. Dagger 2 uses 3 different kinds of files :
-	a. @Module classes that are used to provide dependency. The methods that return the dependency are annotated with @Provider.
-	b. 
